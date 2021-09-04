@@ -1,4 +1,4 @@
-package streams.constants.sort;
+package streams.sort;
 
 import streams.model.lists.DishMenu;
 
